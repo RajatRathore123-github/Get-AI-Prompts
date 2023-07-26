@@ -24,7 +24,7 @@ export default function UserProfile({ params }){
     return(
         <Profile
         name={userName}
-        desc={`Welcome to ${userName}'s personlized profile page`}
+        desc={`Welcome to ${userName}'s personalized profile page`}
         data={userPosts}/>
     )
 }
