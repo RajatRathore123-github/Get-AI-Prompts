@@ -3,7 +3,7 @@ import Navbar from "@components/Navbar";
 import Provider from "@components/Provider";
 
 export const metadata = {
-    title: "AI Prompts",
+    title: "Get AI Prompts",
     description: "AI generated prompts for creative writing"
 }
 export default function RootLayout({children}){

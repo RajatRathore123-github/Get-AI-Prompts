@@ -9,7 +9,7 @@ export default function Home(){
                 <div className="orange_gradient text-center">AI-Powered Prompts</div>
             </h1>
             <p className="desc text-center">
-                AI-Prompts is a community-driven platform for sharing and discovering AI-generated prompts for creative writing.
+                Get AI Prompts is a community-driven platform for sharing and discovering AI-generated prompts for creative writing.
             </p>
             <Feed/>
         </section>

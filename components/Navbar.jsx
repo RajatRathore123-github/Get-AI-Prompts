@@ -29,7 +29,7 @@ export default function Navbar() {
           height={30}
           className="object-contain"
         />
-        <p className="logo_text">Prompts</p>
+        <p className="logo_text">Get AI Prompts</p>
       </Link>
 
       {/* {alert(session?.user)} */}
